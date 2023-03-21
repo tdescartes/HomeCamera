@@ -2,8 +2,15 @@
 
 Getting started with HomeCamera Application
 
-`cd .\HomeCamera`
+```
+cd .\HomeCamera
+```
 
-`npm install`
+```
+npm install
+```
 
-`npm run android`
+
+```
+npm run android
+```
